@@ -38,18 +38,6 @@ Requirements
 
 Install dependencies using:
 pip install matplotlib numpy pandas yfinance
-Results Interpretation
-
-The Monte Carlo simulation helps estimate the potential future value of an investment:
-
-    Mean Investment Value: $13,323.37
-
-    Worst 10% Outcomes (10th percentile): Below $8,001.99
-
-    Best 10% Outcomes (90th percentile): Above $19,498.39
-
-This means that based on historical trends, an initial investment of $10,000 in MSFT stock could grow or shrink significantly, with varying probabilities.
-Visualizations
 
 Two key charts summarize the results:
 
